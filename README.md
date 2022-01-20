@@ -1,7 +1,7 @@
 <html>
   <head>
     <body>
-      <p><tt> <strong> System </strong> Design </tt></p>
+      <p> <strong> System </strong> Design</p>
     </body>
   </head>
   </html>
